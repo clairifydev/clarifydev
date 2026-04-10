@@ -17,12 +17,3 @@ Clairify transforms conversations into intelligent interactions by acting as a *
 
 ---
 
-## ⚡ Core Flow
-
-```mermaid
-graph LR
-A[🎤 Speech Input] --> B[🧠 Context Engine]
-B --> C[❤️ Emotion Detection]
-C --> D[🎯 Intent Modeling]
-D --> E[🤖 AI Assistance]
-E --> F[💬 Enhanced Communication]
